@@ -1,1 +1,13 @@
-﻿
+﻿5월 21일
+
+DI(Dependency injection)
+
+플러그인을 다운받으려면 pom.xml에서 dependency를 추가 하면 된다.
+프로젝트 버전이 충돌나면 m.2폴더의 repository를 삭제하면 자동으로 다시 다운 받아 준다.
+
+
+
+1. 1.x버전 오전시간, xml기반의 빈 정의를 함
+
+
+2. 2.x버전
